@@ -15,35 +15,27 @@ class ProjectUtils {
 
 List<ProjectUtils> projectUtils = [
   ProjectUtils(
-    banners: 'assets/imgs/02.png',
-    icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Social Media App',
-    description:
-        'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/poetically-.git',
-  ),
-  ProjectUtils(
     banners: 'assets/imgs/1.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome CRM UI',
+    titles: 'Machine Learning Project',
     description:
-        'This is a just CRM UI Design using Figma, file is also available, check below.',
-    links: 'https://github.com/sudeshnb/',
+        'Handwriting-Based Gender Classification System, using hinge features extraction, svm model and CMP23 dataSet.',
+    links: 'https://github.com/Hussien12Mostafa/MLGenderClassification',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/03.png',
+    banners: 'assets/imgs/MCQ.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Exercise App',
+    titles: 'Machine Learning Project',
     description:
-        'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
+        'MCQ Automated Grading for students and save their result in excel sheet.',
+    links: 'https://github.com/Hussien12Mostafa/MCQ-Automated-Grading-OMR-',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/04.png',
+    banners: 'assets/imgs/number.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Plant App UI',
+    titles: 'Deep Learning Project',
     description:
-        'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/flutter_plant_app.git',
+        'Predict numbers from input image.',
+    links: 'https://github.com/Hussien12Mostafa/predict_numbers_deepLearning',
   ),
 ];
